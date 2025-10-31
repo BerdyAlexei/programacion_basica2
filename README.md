@@ -1,1 +1,1 @@
-"Esto es un README"
+Este proyecto fue desarrollado como una demostración práctica de las capacidades de HTML y CSS, con un uso complementario de JavaScript para agregar interactividad básica. Su objetivo es mostrar cómo combinar estructura, estilo y funcionalidad en una página web sencilla pero bien diseñada, aplicando los fundamentos del desarrollo frontend.
